@@ -3015,98 +3015,112 @@
          "Oct-20":45.8,
          "Nov-20":57.4,
          "Dec-20":48.3,
-         "Jan-21":50.3
+         "Jan-21":52.4
       },
       "datasets":{
          "real_gdp_growth":[
+            [
             {
-               "timestamp":"Dec-18",
-               "data":3.8
+              "timestamp": "Dec-18",
+              "data": 3.8
             },
             {
-               "timestamp":"Jan-19",
-               "data":2.9
+              "timestamp": "Jan-19",
+              "data": 2.9
             },
             {
-               "timestamp":"Feb-19",
-               "data":2.9
+              "timestamp": "Feb-19",
+              "data": 2.9
             },
             {
-               "timestamp":"Mar-19",
-               "data":2.9
+              "timestamp": "Mar-19",
+              "data": 2.9
             },
             {
-               "timestamp":"Apr-19",
-               "data":2.4
+              "timestamp": "Apr-19",
+              "data": 2.4
             },
             {
-               "timestamp":"May-19",
-               "data":2.4
+              "timestamp": "May-19",
+              "data": 2.4
             },
             {
-               "timestamp":"Jun-19",
-               "data":2.4
+              "timestamp": "Jun-19",
+              "data": 2.4
             },
             {
-               "timestamp":"Jul-19",
-               "data":2.6
+              "timestamp": "Jul-19",
+              "data": 2.6
             },
             {
-               "timestamp":"Aug-19",
-               "data":2.6
+              "timestamp": "Aug-19",
+              "data": 2.6
             },
             {
-               "timestamp":"Sep-19",
-               "data":2.6
+              "timestamp": "Sep-19",
+              "data": 2.6
             },
             {
-               "timestamp":"Oct-19",
-               "data":1.5
+              "timestamp": "Oct-19",
+              "data": 1.5
             },
             {
-               "timestamp":"Nov-19",
-               "data":1.5
+              "timestamp": "Nov-19",
+              "data": 1.5
             },
             {
-               "timestamp":"Dec-19",
-               "data":1.5
+              "timestamp": "Dec-19",
+              "data": 1.5
             },
             {
-               "timestamp":"Jan-20",
-               "data":-2
+              "timestamp": "Jan-20",
+              "data": -2
             },
             {
-               "timestamp":"Feb-20",
-               "data":-2
+              "timestamp": "Feb-20",
+              "data": -2
             },
             {
-               "timestamp":"Mar-20",
-               "data":-2
+              "timestamp": "Mar-20",
+              "data": -2
             },
             {
-               "timestamp":"Apr-20",
-               "data":-12.1
+              "timestamp": "Apr-20",
+              "data": -12.1
             },
             {
-               "timestamp":"May-20",
-               "data":-12.1
+              "timestamp": "May-20",
+              "data": -12.1
             },
             {
-               "timestamp":"Jun-20",
-               "data":-12.1
+              "timestamp": "Jun-20",
+              "data": -12.1
             },
             {
-               "timestamp":"Jul-20",
-               "data":-6.4
+              "timestamp": "Jul-20",
+              "data": -6.4
             },
             {
-               "timestamp":"Aug-20",
-               "data":-6.4
+              "timestamp": "Aug-20",
+              "data": -6.4
             },
             {
-               "timestamp":"Sep-20",
-               "data":-6.4
+              "timestamp": "Sep-20",
+              "data": -6.4
+            },
+            {
+              "timestamp": "Oct-20",
+              "data": -4.2
+            },
+            {
+              "timestamp": "Nov-20",
+              "data": -4.2
+            },
+            {
+              "timestamp": "Dec-20",
+              "data": -4.2
             }
+          ]
          ],
          "pmi_manufacturing":[
             {
@@ -3758,7 +3772,7 @@
          "Oct-20":46.2,
          "Nov-20":47.9,
          "Dec-20":31.4,
-         "Jan-21":39.4
+         "Jan-21":39.3
       },
       "datasets":{
          "real_gdp_growth":[
@@ -4178,106 +4192,112 @@
             }
          ],
          "import_cover":[
-            {
-               "timestamp":"Dec-18",
-               "data":8
-            },
-            {
-               "timestamp":"Jan-19",
-               "data":8.6
-            },
-            {
-               "timestamp":"Feb-19",
-               "data":9.4
-            },
-            {
-               "timestamp":"Mar-19",
-               "data":9.3
-            },
-            {
-               "timestamp":"Apr-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"May-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"Jun-19",
-               "data":9.3
-            },
-            {
-               "timestamp":"Jul-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"Aug-19",
-               "data":9.3
-            },
-            {
-               "timestamp":"Sep-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"Oct-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"Nov-19",
-               "data":9.2
-            },
-            {
-               "timestamp":"Dec-19",
-               "data":9.4
-            },
-            {
-               "timestamp":"Jan-20",
-               "data":9.3
-            },
-            {
-               "timestamp":"Feb-20",
-               "data":10.8
-            },
-            {
-               "timestamp":"Mar-20",
-               "data":11.5
-            },
-            {
-               "timestamp":"Apr-20",
-               "data":13.7
-            },
-            {
-               "timestamp":"May-20",
-               "data":14.4
-            },
-            {
-               "timestamp":"Jun-20",
-               "data":14.3
-            },
-            {
-               "timestamp":"Jul-20",
-               "data":14.8
-            },
-            {
-               "timestamp":"Aug-20",
-               "data":14.7
-            },
-            {
-               "timestamp":"Sep-20",
-               "data":14.6
-            },
-            {
-               "timestamp":"Oct-20",
-               "data":14.8
-            },
-            {
-               "timestamp":"Nov-20",
-               "data":14.8
-            },
-            {
-               "timestamp":"Dec-20",
-               "data":15.4
-            }
+            [
+              {
+                "timestamp": "Dec-18",
+                "data": 8
+              },
+              {
+                "timestamp": "Jan-19",
+                "data": 8.6
+              },
+              {
+                "timestamp": "Feb-19",
+                "data": 9.4
+              },
+              {
+                "timestamp": "Mar-19",
+                "data": 9.3
+              },
+              {
+                "timestamp": "Apr-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "May-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "Jun-19",
+                "data": 9.3
+              },
+              {
+                "timestamp": "Jul-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "Aug-19",
+                "data": 9.3
+              },
+              {
+                "timestamp": "Sep-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "Oct-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "Nov-19",
+                "data": 9.2
+              },
+              {
+                "timestamp": "Dec-19",
+                "data": 9.4
+              },
+              {
+                "timestamp": "Jan-20",
+                "data": 9.3
+              },
+              {
+                "timestamp": "Feb-20",
+                "data": 10.8
+              },
+              {
+                "timestamp": "Mar-20",
+                "data": 11.5
+              },
+              {
+                "timestamp": "Apr-20",
+                "data": 13.7
+              },
+              {
+                "timestamp": "May-20",
+                "data": 14.4
+              },
+              {
+                "timestamp": "Jun-20",
+                "data": 14.3
+              },
+              {
+                "timestamp": "Jul-20",
+                "data": 14.8
+              },
+              {
+                "timestamp": "Aug-20",
+                "data": 14.7
+              },
+              {
+                "timestamp": "Sep-20",
+                "data": 14.6
+              },
+              {
+                "timestamp": "Oct-20",
+                "data": 14.8
+              },
+              {
+                "timestamp": "Nov-20",
+                "data": 14.8
+              },
+              {
+                "timestamp": "Dec-20",
+                "data": 15.4
+              },
+              {
+                "timestamp": "Jan-21",
+                "data": 15.3
+              }
+            ]
          ],
          "exchange_rate_movement":[
             {
@@ -5256,7 +5276,7 @@
          "Oct-20":69.8,
          "Nov-20":63.7,
          "Dec-20":50.5,
-         "Jan-21":60.7
+         "Jan-21":69.5
       },
       "datasets":{
          "real_gdp_growth":[
@@ -5468,106 +5488,112 @@
             }
          ],
          "export_growth":[
-            {
-               "timestamp":"Dec-18",
-               "data":-3.9
-            },
-            {
-               "timestamp":"Jan-19",
-               "data":-3.8
-            },
-            {
-               "timestamp":"Feb-19",
-               "data":-9.5
-            },
-            {
-               "timestamp":"Mar-19",
-               "data":-6.9
-            },
-            {
-               "timestamp":"Apr-19",
-               "data":-9.9
-            },
-            {
-               "timestamp":"May-19",
-               "data":-8.9
-            },
-            {
-               "timestamp":"Jun-19",
-               "data":-9.1
-            },
-            {
-               "timestamp":"Jul-19",
-               "data":-6.4
-            },
-            {
-               "timestamp":"Aug-19",
-               "data":-10.1
-            },
-            {
-               "timestamp":"Sep-19",
-               "data":-5.9
-            },
-            {
-               "timestamp":"Oct-19",
-               "data":-6.5
-            },
-            {
-               "timestamp":"Nov-19",
-               "data":-6.1
-            },
-            {
-               "timestamp":"Dec-19",
-               "data":1
-            },
-            {
-               "timestamp":"Jan-20",
-               "data":-2.8
-            },
-            {
-               "timestamp":"Feb-20",
-               "data":9.9
-            },
-            {
-               "timestamp":"Mar-20",
-               "data":-2.6
-            },
-            {
-               "timestamp":"Apr-20",
-               "data":-6.9
-            },
-            {
-               "timestamp":"May-20",
-               "data":-29.1
-            },
-            {
-               "timestamp":"Jun-20",
-               "data":2.1
-            },
-            {
-               "timestamp":"Jul-20",
-               "data":-10.1
-            },
-            {
-               "timestamp":"Aug-20",
-               "data":-8.2
-            },
-            {
-               "timestamp":"Sep-20",
-               "data":-0.8
-            },
-            {
-               "timestamp":"Oct-20",
-               "data":-3.5
-            },
-            {
-               "timestamp":"Nov-20",
-               "data":9.4
-            },
-            {
-               "timestamp":"Dec-20",
-               "data":14.6
-            }
+            [
+              {
+                "timestamp": "Dec-18",
+                "data": -3.9
+              },
+              {
+                "timestamp": "Jan-19",
+                "data": -3.8
+              },
+              {
+                "timestamp": "Feb-19",
+                "data": -9.5
+              },
+              {
+                "timestamp": "Mar-19",
+                "data": -6.9
+              },
+              {
+                "timestamp": "Apr-19",
+                "data": -9.9
+              },
+              {
+                "timestamp": "May-19",
+                "data": -8.9
+              },
+              {
+                "timestamp": "Jun-19",
+                "data": -9.1
+              },
+              {
+                "timestamp": "Jul-19",
+                "data": -6.4
+              },
+              {
+                "timestamp": "Aug-19",
+                "data": -10.1
+              },
+              {
+                "timestamp": "Sep-19",
+                "data": -5.9
+              },
+              {
+                "timestamp": "Oct-19",
+                "data": -6.5
+              },
+              {
+                "timestamp": "Nov-19",
+                "data": -6.1
+              },
+              {
+                "timestamp": "Dec-19",
+                "data": 1
+              },
+              {
+                "timestamp": "Jan-20",
+                "data": -2.8
+              },
+              {
+                "timestamp": "Feb-20",
+                "data": 9.9
+              },
+              {
+                "timestamp": "Mar-20",
+                "data": -2.6
+              },
+              {
+                "timestamp": "Apr-20",
+                "data": -6.9
+              },
+              {
+                "timestamp": "May-20",
+                "data": -29.1
+              },
+              {
+                "timestamp": "Jun-20",
+                "data": 2.1
+              },
+              {
+                "timestamp": "Jul-20",
+                "data": -10.1
+              },
+              {
+                "timestamp": "Aug-20",
+                "data": -8.2
+              },
+              {
+                "timestamp": "Sep-20",
+                "data": -0.8
+              },
+              {
+                "timestamp": "Oct-20",
+                "data": -3.5
+              },
+              {
+                "timestamp": "Nov-20",
+                "data": 9.4
+              },
+              {
+                "timestamp": "Dec-20",
+                "data": 14.6
+              },
+              {
+                "timestamp": "Jan-21",
+                "data": 12.2
+              }
+            ]
          ],
          "cpi_inflation":[
             {
