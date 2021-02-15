@@ -3012,9 +3012,9 @@
          "Jul-20":45.3,
          "Aug-20":50.7,
          "Sep-20":46.1,
-         "Oct-20":45.8,
-         "Nov-20":57.4,
-         "Dec-20":48.3,
+         "Oct-20":47.9,
+         "Nov-20":59.5,
+         "Dec-20":50.4,
          "Jan-21":52.4
       },
       "datasets":{
@@ -4190,7 +4190,7 @@
             }
          ],
          "import_cover":[
-            [
+            
               {
                 "timestamp": "Dec-18",
                 "data": 8
@@ -4295,7 +4295,7 @@
                 "timestamp": "Jan-21",
                 "data": 15.3
               }
-            ]
+            
          ],
          "exchange_rate_movement":[
             {
@@ -5486,7 +5486,7 @@
             }
          ],
          "export_growth":[
-            [
+            
               {
                 "timestamp": "Dec-18",
                 "data": -3.9
@@ -5591,7 +5591,7 @@
                 "timestamp": "Jan-21",
                 "data": 12.2
               }
-            ]
+            
          ],
          "cpi_inflation":[
             {
