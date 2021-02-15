@@ -3019,7 +3019,6 @@
       },
       "datasets":{
          "real_gdp_growth":[
-            [
             {
               "timestamp": "Dec-18",
               "data": 3.8
@@ -3120,7 +3119,6 @@
               "timestamp": "Dec-20",
               "data": -4.2
             }
-          ]
          ],
          "pmi_manufacturing":[
             {
