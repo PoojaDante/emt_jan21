@@ -770,7 +770,7 @@
          "Oct-20":45.9,
          "Nov-20":29.0,
          "Dec-20":44.1,
-         "Jan-21":59.3
+         "Jan-21":59.7
       },
       "datasets":{
          "real_gdp_growth":[
@@ -1072,7 +1072,7 @@
             },
             {
                "timestamp":"Jan-21",
-               "data":5.4
+               "data":6.2
             }
          ],
          "cpi_inflation":[
@@ -3025,15 +3025,15 @@
             },
             {
               "timestamp": "Jan-19",
-              "data": 2.9
+              "data": 2.8
             },
             {
               "timestamp": "Feb-19",
-              "data": 2.9
+              "data": 2.8
             },
             {
               "timestamp": "Mar-19",
-              "data": 2.9
+              "data": 2.8
             },
             {
               "timestamp": "Apr-19",
@@ -3049,39 +3049,39 @@
             },
             {
               "timestamp": "Jul-19",
-              "data": 2.6
+              "data": 2.7
             },
             {
               "timestamp": "Aug-19",
-              "data": 2.6
+              "data": 2.7
             },
             {
               "timestamp": "Sep-19",
-              "data": 2.6
+              "data": 2.7
             },
             {
               "timestamp": "Oct-19",
-              "data": 1.5
+              "data": 1.3
             },
             {
               "timestamp": "Nov-19",
-              "data": 1.5
+              "data": 1.3
             },
             {
               "timestamp": "Dec-19",
-              "data": 1.5
+              "data": 1.3
             },
             {
               "timestamp": "Jan-20",
-              "data": -2
+              "data": -2.1
             },
             {
               "timestamp": "Feb-20",
-              "data": -2
+              "data": -2.1
             },
             {
               "timestamp": "Mar-20",
-              "data": -2
+              "data": -2.1
             },
             {
               "timestamp": "Apr-20",
